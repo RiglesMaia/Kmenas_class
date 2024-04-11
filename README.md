@@ -32,3 +32,5 @@ This Python script facilitates K-means clustering for image classification using
 ## Contributions
 Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
